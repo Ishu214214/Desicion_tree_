@@ -26,7 +26,7 @@ def predict_note_authentication(UserID, Gender,Age,EstimatedSalary):
 def main():
     st.title("Item Purchase Prediction")
     html_temp = """
-   <div class="" style="background-color:blue;" >
+   <div class="" style="background-color:#FF7F50;" >
    <div class="clearfix">           
    <div class="col-md-12">
    <center><p style="font-size:40px;color:white;margin-top:10px;">Poornima Institute of Engineering & Technology</p></center> 
